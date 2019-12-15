@@ -6,9 +6,9 @@
 
 *There's a ruinous misconception that a Ph.D. must be smart.This can't be true. A smart person would know better than to get a Ph.D.”* 
 
-* **Perseverance, **
-* **tenacity **
-* **cogency** 
+* Perseverance
+* tenacity 
+* cogency 
 
 
 
