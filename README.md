@@ -63,6 +63,16 @@ Bill Freeman sent this e-mail to the MIT Computer Science faculty and other CSAI
 
 
 
+ [writing-papers-gad-2010.ppt](writing-papers-gad-2010.ppt)
+
+First sentence (or the point) must include section title
+
+![image-20200825200508428](../miaochenlu.github.io/source/img/image-20200825200508428.png) 
+
+<img src="../miaochenlu.github.io/source/img/image-20200825201406810.png" alt="image-20200825201406810" style="zoom:50%;" />
+
+<img src="../miaochenlu.github.io/source/img/image-20200825201434968.png" alt="image-20200825201434968" style="zoom:50%;" />
+
 ## 3. Time management
 
 <a href="http://www.dgp.toronto.edu/~hertzman/courses/gradSkills/2010/TimeManagement.pdf">slides</a>
