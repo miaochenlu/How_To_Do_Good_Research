@@ -67,11 +67,11 @@ Bill Freeman sent this e-mail to the MIT Computer Science faculty and other CSAI
 
 First sentence (or the point) must include section title
 
-![image-20200825200508428](../miaochenlu.github.io/source/img/image-20200825200508428.png) 
+![image-20200825200508428](img/image-20200825200508428.png) 
 
-<img src="../miaochenlu.github.io/source/img/image-20200825201406810.png" alt="image-20200825201406810" style="zoom:50%;" />
+<img src="img/image-20200825201406810.png" alt="image-20200825201406810" style="zoom:50%;" />
 
-<img src="../miaochenlu.github.io/source/img/image-20200825201434968.png" alt="image-20200825201434968" style="zoom:50%;" />
+<img src="img/image-20200825201434968.png" alt="image-20200825201434968" style="zoom:50%;" />
 
 ## 3. Time management
 
