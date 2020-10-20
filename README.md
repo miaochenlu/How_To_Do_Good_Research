@@ -2,7 +2,7 @@
 
 <a href="http://www.thecomputationalphotographer.com/wp-content/uploads/2017/03/fredo_do_good_research_2016.pdf">fantastic slides</a>
 
-## 1. **3 qualities of successful Ph.D. students** 
+## 1.  **3 qualities of successful Ph.D. students** 
 
 *There's a ruinous misconception that a Ph.D. must be smart.This can't be true. A smart person would know better than to get a Ph.D.”* 
 
@@ -88,4 +88,4 @@ May be could try GTD [getting things done]
 <a href="https://www.bilibili.com/video/av73280139?from=search&seid=1659673618579243673">more about GTD click me</a>
 
 
-
+Website recommended by Fangming Lu. <a href="http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/how-to.html">Advice on Research and Writing</a>
