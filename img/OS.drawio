@@ -1,1 +1,108 @@
-<mxfile host="app.diagrams.net" modified="2020-11-27T13:01:21.316Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.3 Safari/605.1.15" etag="cbFAKQ4kgndsJjf_nNqd" version="13.10.4" type="github"><diagram id="34P9hAT961No3k8Vt0Rv" name="Page-1">7Vrbdto4FP0aHpPlO84jl9DJzEqbKdNO51HY8mVFWFQWhczXz5EtGdsy46YEwmLBA0hbOkfS2VuyJDOwJ8vtB4ZWySMNMRlYRrgd2NOBZZmmewc/AnlRyFAiMUtDie2AefovlqAh0XUa4rxRkVNKeLpqggHNMhzwBoYYo5tmtYiSZqsrFGMNmAeI6OjfaciTEvWt4Q7/Dadxolo2PTm+JVKV5UjyBIV0U4Ps+4E9YZTyMrXcTjAR0VNxKe1me0qrjjGc8Z8xeH6af/2OM+P3Px8eNg94/jL7mN1ILz8QWcsBy87yFxWBTZJyPF+hQOQ3QPPAHid8SSBnQhLlqzLuUbrF0NQ4f8Y8SGRpzhl9riJnAxKlhEwooazwbocI+1FQ1ayVeIGPF5GwoBmfoWVKhIY+0+AZ+jdHhMuiOV2zom8J5yAKy7VH8AVhEF+iQn4bUxoTjFZpfhvQZVEQ5EXVWVQ6hqR07VrjunMZBxUnzDje7iXArGiFCYHpEnMGrg1lYEslyLlgK41vdsKqsKQmqgpEUsxx5XvHNyQk5a+g39bonzx90RTA6DoLBbdTA8LSo4fX0b9AgR/aXfRbtuO44UXRb966DQF4li4Ar4N/71j0Oxr9n0ePV/qPQj88Gs6N/qFGf5jmz1f+j8K/bZwd/77G/8f7v670H4f+O6OXfPeU5JtW/9YPZ+FI7KEhl9EMN6nG25R/k6oQ6X9EGiRe5qbbWtH0RWUy6Po35UBkalYiuzMrcsquT1bnIxIcaueJlkQgwqo/PbtyjliMeV89XXI9klIYwwTx9Eezu106ky080RQG0q9o5aIcprSqH0xajhyn6cgdthyVcdAcFbKvhn3ATNB3wV8fTrkMhi72Q6drGfSthe1556XwwzbBbusMZL/zM9DU98DzpLC78n+MXXD7DPzu/Lsa/5PJlfzj7IGscyNfPwHN5qckP0LhEHXefi0czzWcCyK/vfI7/nuTrx9/BpZXjR1KQsTRjUjf5Cwoanjf1+K6dlwGW4QaAr0nzEWQqxCrAJfhrRw1lKbAssniKhxaMEx3ta1beLH8Lfqar1CmsCdGA5znOFeFC6aKHvGSFnSMCKEB7PtoplcaBcIcKk2gB4wSVQMGU2+mBpeRUnBr4oBYeOuymKRxBmmCI1EiBJUGiIwkvEzDUBiPGYbho0XhSEy6ldj7FQJwxwN3KjytOS1DVDi+lFkCq37rlsDxXW2eWMb/bOvffqLc7Z0oi7Yk1m1ATqV+kftdIv+SYyaYLJbbfaqrYK1xwBa/oM4AyIJ2T6jP2sI/mxnwqTp8mJp8TU0dj1yz65DYPsy9mZqU40PUFFTh2gnGjiIbPq9cWjtV9wdmWfEe86J19xb68prqcofOrb5amcOT6qvrlWa/eozi01SPehmtMHP/U3jxM2qD0Hao7RPsOI1PLEYZUFt/LjdVdOgj92IWNdNqX6QPO+5SLedtRAfZ3Sv68sZp908H+/4/</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-30T06:30:42.423Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.3 Safari/605.1.15" etag="F6vtHUpGh7_QOSC4Szh4" version="13.10.4" type="github">
+  <diagram id="34P9hAT961No3k8Vt0Rv" name="Page-1">
+    <mxGraphModel dx="1020" dy="1204" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kPSVqen0JQIIwIeSyFNn-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Rock Salt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRock%2BSalt;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="78.5" y="110" width="310" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="kPSVqen0JQIIwIeSyFNn-3" value="CPU" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeWidth=3;fillColor=#bac8d3;strokeColor=#23445d;fontFamily=Rock Salt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRock%2BSalt;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="80" y="420" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kPSVqen0JQIIwIeSyFNn-4" value="RAM" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeWidth=3;fillColor=#bac8d3;strokeColor=#23445d;fontFamily=Rock Salt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRock%2BSalt;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="160" y="420" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kPSVqen0JQIIwIeSyFNn-7" value="disk" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeWidth=3;fillColor=#bac8d3;strokeColor=#23445d;fontFamily=Rock Salt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRock%2BSalt;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="250" y="420" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kPSVqen0JQIIwIeSyFNn-8" value="NET" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeWidth=3;fillColor=#bac8d3;strokeColor=#23445d;fontFamily=Rock Salt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRock%2BSalt;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="338.5" y="420" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kPSVqen0JQIIwIeSyFNn-12" value="" style="endArrow=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;sketch=1;strokeWidth=3;fontFamily=Rock Salt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRock%2BSalt;fontStyle=1" parent="1" source="kPSVqen0JQIIwIeSyFNn-1" target="kPSVqen0JQIIwIeSyFNn-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="338.5" y="420" as="sourcePoint" />
+            <mxPoint x="388.5" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kPSVqen0JQIIwIeSyFNn-13" value="VI" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Rock Salt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRock%2BSalt;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="98.5" y="130" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kPSVqen0JQIIwIeSyFNn-14" value="Shell" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Rock Salt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRock%2BSalt;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="178.5" y="130" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kPSVqen0JQIIwIeSyFNn-15" value="CC" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Rock Salt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRock%2BSalt;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="268.5" y="130" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kPSVqen0JQIIwIeSyFNn-17" value="FS" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeWidth=3;fillColor=#fad7ac;strokeColor=#b46504;fontFamily=Rock Salt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRock%2BSalt;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="98.5" y="280" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kPSVqen0JQIIwIeSyFNn-18" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Rock+Salt&quot; style=&quot;font-size: 15px&quot;&gt;&lt;span&gt;Processes&lt;br&gt;Memory Allocation&lt;br&gt;Access Control&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Rock Salt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRock%2BSalt;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="187" y="285" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kPSVqen0JQIIwIeSyFNn-19" value="&lt;b&gt;&lt;u&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;User Space&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Rock Salt;fontColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="237" y="230" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kPSVqen0JQIIwIeSyFNn-20" value="&lt;b&gt;&lt;u&gt;&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 18px&quot;&gt;Kernel Space&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Rock Salt;" parent="1" vertex="1">
+          <mxGeometry x="213.5" y="374.5" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kPSVqen0JQIIwIeSyFNn-21" value="&lt;font color=&quot;#000000&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 20px&quot;&gt;OS Organization&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Rock Salt;fontColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="70" y="520" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rHk9SzpW8-NFzoKqZlvL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;fontFamily=Rock Salt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRock%2BSalt;fontColor=#FF0000;" edge="1" parent="1" source="rHk9SzpW8-NFzoKqZlvL-1" target="rHk9SzpW8-NFzoKqZlvL-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rHk9SzpW8-NFzoKqZlvL-1" value="GETCMD" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeWidth=3;fontFamily=Rock Salt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRock%2BSalt;fillColor=#fad7ac;strokeColor=#b46504;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="353" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rHk9SzpW8-NFzoKqZlvL-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fontFamily=Rock Salt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRock%2BSalt;fontColor=#FF0000;" edge="1" parent="1" source="rHk9SzpW8-NFzoKqZlvL-2" target="rHk9SzpW8-NFzoKqZlvL-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rHk9SzpW8-NFzoKqZlvL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fontFamily=Rock Salt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRock%2BSalt;fontColor=#FF0000;" edge="1" parent="1" source="rHk9SzpW8-NFzoKqZlvL-2" target="rHk9SzpW8-NFzoKqZlvL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rHk9SzpW8-NFzoKqZlvL-2" value="FORK" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeWidth=3;fontFamily=Rock Salt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRock%2BSalt;fillColor=#fad7ac;strokeColor=#b46504;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="353" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rHk9SzpW8-NFzoKqZlvL-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;fontFamily=Rock Salt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRock%2BSalt;fontColor=#FF0000;shape=link;" edge="1" parent="1" source="rHk9SzpW8-NFzoKqZlvL-3" target="rHk9SzpW8-NFzoKqZlvL-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rHk9SzpW8-NFzoKqZlvL-3" value="RUNCMD" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeWidth=3;fontFamily=Rock Salt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRock%2BSalt;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="257" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rHk9SzpW8-NFzoKqZlvL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;fontFamily=Rock Salt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRock%2BSalt;fontColor=#FF0000;" edge="1" parent="1" source="rHk9SzpW8-NFzoKqZlvL-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rHk9SzpW8-NFzoKqZlvL-4" value="WAIT" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeWidth=3;fontFamily=Rock Salt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRock%2BSalt;fillColor=#fad7ac;strokeColor=#b46504;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="473" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rHk9SzpW8-NFzoKqZlvL-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;fontFamily=Rock Salt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRock%2BSalt;fontColor=#FF0000;" edge="1" parent="1" source="rHk9SzpW8-NFzoKqZlvL-5" target="rHk9SzpW8-NFzoKqZlvL-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rHk9SzpW8-NFzoKqZlvL-5" value="EXEC" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeWidth=3;fontFamily=Rock Salt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRock%2BSalt;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="81.5" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rHk9SzpW8-NFzoKqZlvL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;fontFamily=Rock Salt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRock%2BSalt;fontColor=#FF0000;" edge="1" parent="1" source="rHk9SzpW8-NFzoKqZlvL-6" target="rHk9SzpW8-NFzoKqZlvL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rHk9SzpW8-NFzoKqZlvL-6" value="EXIT" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeWidth=3;fontFamily=Rock Salt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRock%2BSalt;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="80" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rHk9SzpW8-NFzoKqZlvL-14" value="SUCCEED" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Rock Salt;fontSize=18;fontStyle=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="670" y="925" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rHk9SzpW8-NFzoKqZlvL-15" value="Child process" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;fontFamily=Rock Salt;fontColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="135" y="855" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rHk9SzpW8-NFzoKqZlvL-16" value="parent process" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;fontFamily=Rock Salt;fontColor=#FFB570;" vertex="1" parent="1">
+          <mxGeometry x="500" y="835" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rHk9SzpW8-NFzoKqZlvL-18" value="call" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;fontFamily=Rock Salt;" vertex="1" parent="1">
+          <mxGeometry x="200" y="905" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
